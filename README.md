@@ -21,8 +21,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=4ozCy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=4ozCy&label=Profile%20Views&color=11&icon=1&pretty=true" />
-</a>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://komarev.com/ghpvc/?username=4ozCy)
