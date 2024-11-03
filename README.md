@@ -1,6 +1,7 @@
 # 💫 About Me:
 🌱 I'm currently learning lua, JavaScript, Python
 
+![](https://komarev.com/ghpvc/?username=4ozCy)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1107744228773220473) 
@@ -20,5 +21,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=4ozCy&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-![](https://komarev.com/ghpvc/?username=4ozCy)
